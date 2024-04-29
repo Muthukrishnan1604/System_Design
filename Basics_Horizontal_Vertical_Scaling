@@ -1,0 +1,4 @@
+Imagine we have some code which is running on our computer and this code is like a normal function which will take the input and return the response.
+If some people want that Algorithm, we can't provide our system to expose our code we need some protocol which is going to be running in internet. For Example: API
+
+If we receive request we will return the response
